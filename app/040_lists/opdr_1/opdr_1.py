@@ -10,5 +10,6 @@ Dict4 = {"id": 3, "voornaam": "Klaas", "achternaam": "Klaassen",}
 
 MyList = [Dict1, Dict2, Dict3, Dict4]
 
-print(MyList)
+print(MyList[1]["voornaam"], MyList[1]["achternaam"])
 
+ 
