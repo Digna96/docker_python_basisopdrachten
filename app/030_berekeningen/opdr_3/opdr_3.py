@@ -1,16 +1,16 @@
 # Opdracht 3 tekstfuncties
-# Naam student:
+# Naam student: Digna Devilee
 # Groep:
 
 # Hier komt je code...
 x = 1
-y = ...
-print( ... )
+y = 2
+print( x + y )
+
+x = 5
+y = 5
+print( x * y )
 
 x = 2
-y = ...
-print( ... )
-
-x = 0
-y = ...
-print( ... )
+y = 2
+print( x / y )
