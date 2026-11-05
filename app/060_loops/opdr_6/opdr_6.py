@@ -6,4 +6,5 @@
 
 # Hier start de for-loop
 
-my_list = []
+
+    
